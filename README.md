@@ -1,4 +1,4 @@
-# RAG_using_Lllamindex
+# RAG_using_Lllamindex using various reterivers and Query engine pipelines . 
 Implementation of RAG Systems  and evaluate the performance.
 
 This repository contains the implementation of a precise and scalable Question Answering (QA) system designed to extract information from The Coca-Cola Company's 10-K filings over the last decade. It leverages LlamaIndex, various retriever architectures, and reranking mechanisms to enable natural language querying over financial documents.
