@@ -4,7 +4,8 @@ Implementation of RAG Systems  and evaluate the performance.
 This repository contains the implementation of a precise and scalable Question Answering (QA) system designed to extract information from The Coca-Cola Company's 10-K filings over the last decade. It leverages LlamaIndex, various retriever architectures, and reranking mechanisms to enable natural language querying over financial documents.
 
 📂 Dataset Source:
-The Coca-Cola Company Annual Filings (10-K)
+The Coca-Cola Company Annual Filings (10-K)[Coca-Cola 10-K Filings](https://investors.coca-colacompany.com/filings-reports/annual-filings-10-k)
+
 
 📌 Objectives
 
